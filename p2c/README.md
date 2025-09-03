@@ -55,37 +55,12 @@ P2C uses OpenStreetMap tiles to visualize delivery zones and logistics hubs.
 ## 📸 Visuals
 
 ### Main
-![App Main](https://github.com/hith-hj/mockups/blob/main/p2c/producer_1.png)
+![App Main](https://github.com/Skaf-Maya/mockups/blob/main/p2c/producer_1.png)
 
 ### Producer
-![Producer first](https://github.com/hith-hj/mockups/blob/main/p2c/producer_2.png)
-![Producer Second](https://github.com/hith-hj/mockups/blob/main/p2c/producer_3.png)
+![Producer first](https://github.com/Skaf-Maya/mockups/blob/main/p2c/producer_2.png)
+![Producer Second](https://github.com/Skaf-Maya/mockups/blob/main/p2c/producer_3.png)
 
 ### Carrier
-![Carrier first](https://github.com/hith-hj/mockups/blob/main/p2c/carrier_1.png)  
-![Carrier Second](https://github.com/hith-hj/mockups/blob/main/p2c/carrier_2.png)
-
-<table>
-	<tr>
-		<th> Main </th>
-	</tr>
-	<tr>
-		<td><img src="https://github.com/hith-hj/mockups/blob/main/p2c/producer_1.png" width="150"/></td>
-	</tr>
-	<tr>
-		<th> Producer </th>
-	</tr>
-	<tr>
-		<td><img src="https://github.com/hith-hj/mockups/blob/main/p2c/producer_2.png" width="150"/></td>
-		<td><img src="https://github.com/hith-hj/mockups/blob/main/p2c/producer_3.png" width="150"/></td>
-	</tr>
-	<tr>
-		<th> Carrier </th>
-	</tr>
-	<tr>
-		<td><img src="https://github.com/hith-hj/mockups/blob/main/p2c/carrier_1.png" width="150"/></td>
-		<td><img src="https://github.com/hith-hj/mockups/blob/main/p2c/carrier_2.png" width="150"/></td>
-	</tr>
-</table>
-
-
+![Carrier first](https://github.com/Skaf-Maya/mockups/blob/main/p2c/carrier_1.png)  
+![Carrier Second](https://github.comSkaf-Maya/mockups/blob/main/p2c/carrier_2.png)
