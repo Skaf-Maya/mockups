@@ -21,6 +21,7 @@ P2C (Producer to Customer) is designed to streamline local deliveries by:
 - Rest Api
 - Map Locations
 - Cross platform
+- Notifications
 
 ## User Roles
 
@@ -63,4 +64,4 @@ P2C uses OpenStreetMap tiles to visualize delivery zones and logistics hubs.
 
 ### Carrier
 ![Carrier first](https://github.com/Skaf-Maya/mockups/blob/main/p2c/carrier_1.png)  
-![Carrier Second](https://github.comSkaf-Maya/mockups/blob/main/p2c/carrier_2.png)
+![Carrier Second](https://github.com/Skaf-Maya/mockups/blob/main/p2c/carrier_2.png)
