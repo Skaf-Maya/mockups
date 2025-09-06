@@ -53,8 +53,10 @@ It also empowers **salon owners** to manage services, appointments, and customer
 
 <table>
 <tr>
-	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png" width="300"/></td>
-	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png" width="300"/></td>
+	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png" width="600"/></td>
+</tr>
+<tr>
+	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png" width="600"/></td>
 </tr>
 <tr>
 	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/booking.png" width="600"/></td>
