@@ -49,8 +49,22 @@ It also empowers **salon owners** to manage services, appointments, and customer
 
 ## 📸 Visuals
 
-![appointment](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png)
+### User 
 ![booking](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/booking.png)
+
+<table>
+<tr>
+	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png" width="300"/></td>
+	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png" width="300"/></td>
+</tr>	
+<tr>
+	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/categories.png" width="300"/></td>
+	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/search.png" width="300"/></td>
+</tr>
+</table>
+
 ![main](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png)
+![appointment](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png)
+
 ![categories](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/categories.png)
 ![search](https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/search.png)
