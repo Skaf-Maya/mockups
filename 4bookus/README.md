@@ -51,7 +51,6 @@ It also empowers **salon owners** to manage services, appointments, and customer
 
 ### User 
 
-
 <div style="width: 100vw; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -80,24 +79,6 @@ It also empowers **salon owners** to manage services, appointments, and customer
   </table>
 </div>
 
-
-
-<table style="min-width:100vw !important">
-<tr>
-	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png" width="600"/></td>
-</tr>
-<tr>
-	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png" width="600"/></td>
-</tr>
-<tr>
-	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/booking.png" width="600"/></td>
-</tr>
-<tr>
-	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/categories.png" width="300"/></td>
-	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/search.png" width="300"/></td>
-</tr>
-</table>
-
-
+### Maneger
 
 
