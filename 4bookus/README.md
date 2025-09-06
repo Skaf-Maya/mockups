@@ -40,9 +40,9 @@ It also empowers **salon owners** to manage services, appointments, and customer
 | Backend      | Laravel (PHP 12.x)     |
 | Dashboard    | Laravel Filament       |
 | Mobile Apps  | Flutter (Android/IOS)	|
-| Database     | MySQL / Sqlite		      |
-| Auth         | Laravel JWT 		        |
-| Maps         | Leaflet		            |
+| Database     | MySQL / Sqlite		    |
+| Auth         | Laravel JWT 		    |
+| Maps         | Leaflet		        |
 
 
 ---
@@ -57,7 +57,7 @@ It also empowers **salon owners** to manage services, appointments, and customer
 	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/appointment.png" width="300"/></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/booking.png" width="600"/></td>
+	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/booking.png" width="600"/></td>
 </tr>
 <tr>
 	<td><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/categories.png" width="300"/></td>
