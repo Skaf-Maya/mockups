@@ -81,4 +81,30 @@ It also empowers **salon owners** to manage services, appointments, and customer
 
 ### Maneger
 
-
+<div style="width: 100vw; overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        <img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/manager/create_account.png" style="width: 100%; max-width: 600px;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        <img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/manager/navigation.png" style="width: 100%; max-width: 600px;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        <img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/manager/bundles.png" style="width: 100%; max-width: 600px;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/manager/profile.png" style="width: 100%; max-width: 300px;" />
+      </td>
+      <td style="text-align: center;">
+        <img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/manager/reviews.png" style="width: 100%; max-width: 300px;" />
+      </td>
+    </tr>
+  </table>
+</div>
