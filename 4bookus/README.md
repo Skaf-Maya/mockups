@@ -51,13 +51,9 @@ It also empowers **salon owners** to manage services, appointments, and customer
 
 ### User 
 
-<style>
-    table {
-        width: 100% !important;
-    }
-</style>
 
-<table>
+
+<table style="min-width:100vw !important">
 <tr>
 	<td colspan="2"><img src="https://github.com/Skaf-Maya/mockups/blob/main/4bookus/user/main.png" width="600"/></td>
 </tr>
